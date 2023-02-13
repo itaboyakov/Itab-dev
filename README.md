@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## 🛠 Technical Stack
-*   Javascript
+*   JavaScript
 *   html
 *   css/scss
 *   React
